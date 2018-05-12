@@ -1,10 +1,16 @@
 _repo: How-to-Be-a-Detective_50902
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50902-h/images/cover.jpg
 creator:
   author:
     agent_name: Brady, Old King
     gutenberg_agent_id: '46132'
     url: http://www.gutenberg.org/2009/agents/46132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50902#How-to-Be-a-Detective
 gutenberg_issued: '2016-01-11'
 gutenberg_type: Text
 identifiers:
